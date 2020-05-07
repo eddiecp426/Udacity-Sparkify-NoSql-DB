@@ -1,1 +1,0 @@
-# Udacity-Sparkify-NoSql-DB
