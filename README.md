@@ -21,7 +21,7 @@ Since joins are not optimized for NoSQL Databases, 3 Seperate tables will answer
 
 
 <p align="center">
-<img src="sparkify_cassandra_tables.jpeg.png" width="700" height="500">
+<img src="sparkify_cassandra_tables.jpeg" width="700" height="500">
 </p>
 
 ## Repo Files
