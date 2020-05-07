@@ -10,7 +10,7 @@ Sparkify (fake company) is back at it again and wants to continue to analyze the
 
 The data is in the form of csv files where they will all be processed by a function that will create tables and insert data.  
 
-### CSV File Foramt
+### CSV File Format
 
    `2018-11-01-events.csv`
 
