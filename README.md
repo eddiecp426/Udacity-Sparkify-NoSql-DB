@@ -4,7 +4,7 @@ Sparkify (fake company) is back at it again and wants to continue to analyze the
 
 ## Tools (all using Python and its various libraries)
    - Pandas
-   - Apache Cassandra
+   - Apache Cassandra (CQL)
    
 ## Data
 
